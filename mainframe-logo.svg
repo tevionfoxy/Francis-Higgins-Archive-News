@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <g fill="none" stroke="#3ecf8e" stroke-linecap="round" stroke-linejoin="round">
+    <!-- tapered top cap -->
+    <path d="M16 5 H48 L57 13 H7 Z" stroke-width="3.5" fill="rgba(10,10,15,0.15)"/>
+    <!-- server units, translucent glass like the SubSleuth lens -->
+    <rect x="5" y="18" width="54" height="10" rx="3.5" stroke-width="3.5" fill="rgba(10,10,15,0.15)"/>
+    <rect x="5" y="33" width="54" height="10" rx="3.5" stroke-width="3.5" fill="rgba(10,10,15,0.15)"/>
+    <rect x="5" y="48" width="54" height="10" rx="3.5" stroke-width="3.5" fill="rgba(10,10,15,0.15)"/>
+    <!-- drive slots -->
+    <path d="M12 23 H17 M22 23 H28 M12 38 H17 M22 38 H28 M12 53 H17 M22 53 H28" stroke-width="2.5"/>
+    <!-- ring buttons -->
+    <circle cx="51" cy="23" r="2.4" stroke-width="1.6"/>
+    <circle cx="51" cy="38" r="2.4" stroke-width="1.6"/>
+    <circle cx="51" cy="53" r="2.4" stroke-width="1.6"/>
+  </g>
+  <!-- button centres -->
+  <circle cx="51" cy="23" r="1" fill="#3ecf8e"/>
+  <circle cx="51" cy="38" r="1" fill="#3ecf8e"/>
+  <circle cx="51" cy="53" r="1" fill="#3ecf8e"/>
+</svg>
