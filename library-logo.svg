@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <g fill="none" stroke="#3ecf8e" stroke-linecap="round" stroke-linejoin="round">
+    <!-- shelf -->
+    <path d="M5 56 H59" stroke-width="3.5"/>
+    <!-- stream cassettes, translucent glass like the SubSleuth lens -->
+    <rect x="7" y="19" width="13" height="33" rx="3" stroke-width="3.5" fill="rgba(10,10,15,0.15)"/>
+    <rect x="23" y="10" width="13" height="42" rx="3" stroke-width="3.5" fill="rgba(10,10,15,0.15)"/>
+    <!-- the one leaning on its neighbour -->
+    <g transform="rotate(12 53 52)">
+      <rect x="40" y="17" width="13" height="35" rx="3" stroke-width="3.5" fill="rgba(10,10,15,0.15)"/>
+      <!-- play -->
+      <path d="M44.2 23 L49.2 27 L44.2 31 Z" fill="#3ecf8e" stroke-width="1.6"/>
+    </g>
+    <!-- spine labels -->
+    <path d="M10.5 27 H16.5 M10.5 32 H16.5" stroke-width="2.5"/>
+    <path d="M26.5 28 H32.5" stroke-width="2.5"/>
+  </g>
+  <!-- dial -->
+  <circle cx="29.5" cy="19" r="2" fill="#3ecf8e"/>
+</svg>
