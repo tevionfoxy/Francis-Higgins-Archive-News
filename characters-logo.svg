@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <g fill="none" stroke="#3ecf8e" stroke-linecap="round" stroke-linejoin="round">
+    <!-- the two hosts behind -->
+    <circle cx="12" cy="27" r="5.5" stroke-width="3"/>
+    <path d="M3.5 51 C3.5 42 7.5 37 12 37" stroke-width="3"/>
+    <circle cx="52" cy="27" r="5.5" stroke-width="3"/>
+    <path d="M60.5 51 C60.5 42 56.5 37 52 37" stroke-width="3"/>
+    <!-- the lead, translucent glass like the SubSleuth lens -->
+    <circle cx="32" cy="21" r="8" stroke-width="3.5" fill="rgba(10,10,15,0.15)"/>
+    <path d="M17 57 V53 C17 43 24 37 32 37 C40 37 47 43 47 53 V57 Z" stroke-width="3.5" fill="rgba(10,10,15,0.15)"/>
+  </g>
+  <!-- glass highlight on the lead's head -->
+  <circle cx="29" cy="18.5" r="1.8" fill="#3ecf8e" opacity="0.2"/>
+  <!-- status light -->
+  <circle cx="32" cy="48" r="2" fill="#3ecf8e"/>
+</svg>
